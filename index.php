@@ -5,7 +5,7 @@
  * Este archivo maneja las solicitudes HTTP y llama a las funciones de el controlador
  * correspondientes según la URI solicitada.
  *
- * @author AlbaTB_6542X
+ * @author Nusky7
  */
 // Constante que indica que se está utilizando el controlador.
 const CON_CONTROLADOR = true;
