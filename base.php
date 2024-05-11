@@ -101,10 +101,10 @@
         <h1> Jackson Guitar Masters 🎸</h1>
     </header>
     <nav>
-        <a href="/T5DWES/index.php">Inicio</a>
-        <a href="/T5DWES/index.php"> Catálogo</a>
-        <a href="/T5DWES/index.php/registro"> Registro</a>
-        <a href="/T5DWES/index.php/sugerencias"> Contacto</a>
+        <a href="/Jackson/index.php">Inicio</a>
+        <a href="/Jackson/index.php"> Catálogo</a>
+        <a href="/Jackson/index.php/registro"> Registro</a>
+        <a href="/Jackson/index.php/sugerencias"> Contacto</a>
     </nav>
         <section>
             <?php startblock("contenido") ?> <?php endblock() ?>
@@ -112,7 +112,7 @@
 
     <footer>
         <?php startblock("footer") ?>
-           Alba Tolosa Bonora // 29216542-X &copy 
+           Alba Tolosa Bonora &copy 
         <?php endblock() ?>
     </footer>
 </body>

@@ -17,16 +17,16 @@ require_once("controladores.php");
 $uri = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
 
 // Se verifica la URI y se ejecuta la función correspondiente de el controlador.
-if ($uri == '/T5DWES/index.php') {
+if ($uri == '/Jackson/index.php') {
     mostrarArticulos();
 }
-else if ($uri == '/T5DWES/index.php/detalles' && isset($_GET["id"])) {  
+else if ($uri == '/Jackson/index.php/detalles' && isset($_GET["id"])) {  
     detallarArticulos($_GET["id"]);
 }
-else if ($uri == '/T5DWES/index.php/sugerencias'){
+else if ($uri == '/Jackson/index.php/sugerencias'){
     procesarFormulario();
 } 
-else if ($uri == '/T5DWES/index.php/registro'){
+else if ($uri == '/Jackson/index.php/registro'){
     procesarRegistro();
 }
 else {

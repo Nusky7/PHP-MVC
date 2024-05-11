@@ -17,46 +17,46 @@ function mostrarArticulo() {
         0 => array(
             "id" => 0,
             "titulo" => "Jackson 🎶 Kelly Snow White",
-            "imagen" => "/T5DWES/img/kellySW.jpg",
+            "imagen" => "/Jackson/img/kellySW.jpg",
             "descripcion" => "🎸 Cuerpo de álamo <br>
                  🎸 Mástil de 1 pieza de arce<br>🎸 Diapasón de amaranto<br>🎸 2 pastillas Humbucker Jackson de alto nivel de salida.
                  <br>🎸 Radio compuesto de 304,8 - 406,4 mm"),
         1 => array(
             "id" => 1,
             "titulo" => "Jackson 🎶 King V AH Gloss Black",
-            "imagen" => "/T5DWES/img/kingV.jpg",
+            "imagen" => "/Jackson/img/kingV.jpg",
             "descripcion" => "🎸 Cuerpo de álamo.<br>🎸 Ancho de la cejilla: 42,8 mm.<br>
             🎸 Diapasón de amarant.<br>🎸 2 pastillas Jackson humbucker con alto nivel de salida.<br>🎸 Acabado: Negro brillante."),
         2 => array(
             "id" => 2,
             "titulo" => "Jackson 🎶 Rhoads AH SBK",
-            "imagen" => "/T5DWES/img/rohadsAH.jpg",
+            "imagen" => "/Jackson/img/rohadsAH.jpg",
             "descripcion" => "🎸 Modelo Randy Rhoads<br>🎸 Mástil de arce<br>🎸 Radio del diapasón (compuesto): 305 mm 12'' - 406 mm 16p''<br>
             🎸 Clavijas de afinación selladas fundidas a presión<br>🎸 Interruptor de palanca de 3 posiciones"),
         3 => array(
             "id" => 3,
             "titulo" => "Jackson 🎶 Dinky AH BLK",
-            "imagen" => "/T5DWES/img/dinkyAH.jpg",
+            "imagen" => "/Jackson/img/dinkyAH.jpg",
             "descripcion" => "🎸 Diapasón de amaranto<br>🎸 Montaje del mástil: Atornillado (bolt-on)<br>
             🎸 Interruptor de palanca de 3 posiciones<br>🎸 Trémolo Fulcrum de 2 puntos<br>🎸 Color: Negro brillante<br>"),
         4 => array(
             "id" => 4,
             "titulo" => "Jackson 🎶 JS32 Rhoads AH Ivory",
-            "imagen" => "/T5DWES/img/rhoadsIvory.jpg",
+            "imagen" => "/Jackson/img/rhoadsIvory.jpg",
             "descripcion" => "🎸 Cuerpo de álamo.<br>🎸 Anchura de la cejilla: 42,8 mm.<br>
              🎸 Trémolo Jackson con licencia Floyd Rose, con doble bloqueo.<br>🎸 Escala de 648 mm.<br>
              🎸 Acabado: Marfil (Ivory)"),
         5 => array(
             "id" => 5,
             "titulo" => "Jackson 🎶 Dinky MR AH",
-            "imagen" => "/T5DWES/img/dinkyMR.jpg",
+            "imagen" => "/Jackson/img/dinkyMR.jpg",
             "descripcion" => "🎸 Mástil de arce atornillado (bolt-on)<br>🎸 22 trastes Jumbo<br>
             🎸 Interruptor de palanca de 3 posiciones<br>🎸 Trémolo Fulcrum de 2 puntos<br>
             🎸 Acabado: Rojo metalizado"),
         6 => array(
             "id" => 6,
             "titulo" => "Jackson 🎶 Kelly AH SBK",
-            "imagen" => "/T5DWES/img/kellyAH.jpg",
+            "imagen" => "/Jackson/img/kellyAH.jpg",
             "descripcion" => "🎸 Cuerpo de álamo<br>🎸 Mástil 'speed' de 1 pieza de arce atornillado (bolt-on), con refuerzo de grafito y unión en bisel
             <br>🎸 Puente Jackson compensado y ajustable con cuerdas a través del cuerpo<br>🎸 Clavijas Jackson selladas fundidas a presión
             <br>🎸 Acabado: Negro satinado"),
